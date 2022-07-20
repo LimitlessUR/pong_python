@@ -1,3 +1,5 @@
 #Classic Pong 
 
-Contols
+Contols:
+
+Player1 Moves with 
